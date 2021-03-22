@@ -1,0 +1,148 @@
+.cardall{
+    height: 850px;
+    width: 570px;
+    background-color:#fff;
+    margin: 0 auto;
+    border: 2px solid #ccc
+}
+.header{
+    background-color: #efefef;
+    height: 180px;
+    width: 570px;
+    border-bottom: 2px solid black;
+    padding-top: 1px
+}
+.photo{
+    width: 144px;
+    height: 210px;
+    float: left;
+    margin: -127px 0px 10px 55px;
+}
+.name1{
+    font-size: 13px;
+    font-family: "Gothic A1 Light";
+    margin: 57px 0px 10px 230px;
+    letter-spacing: 3px;
+}
+.name2{
+    font-size: 35.2px;
+    font-family: "Gothic A1 black";
+    margin: 15px 0px 0px 230px;
+    line-height: 1.11;
+    letter-spacing: 4px;
+}
+.headers{
+    font-size: 11px;
+    font-family: "Gothic A1 Black";
+    margin: 20px 0px 0px 230px;
+    color: black;
+    letter-spacing: 1.1px;
+}
+.contacts1{
+    float: left;
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 5px 1px 0px 30px;
+    line-height: 1.4;
+}
+.contacts2{
+    float: right;
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 5px 40px 0px 0px;
+    line-height: 1.4;
+}
+.conteiner1{
+    height: 130px;
+    width: 144px;
+    background-color: #fff;
+    margin: 80px 35px 0px 55px;
+    border-top: 2px solid black;
+}
+.conteiner1-h1{
+    font-size: 11px;
+    font-family: "Gothic A1 Black";
+    margin: 8px 0px 0px 0px;
+    color: black;
+    letter-spacing: 1.1px;
+}
+.conteiner1-p{
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 15px 1px 0px 0px;
+    line-height: 1.4;
+}
+.conteiner2{
+    height: 170px;
+    width: 144px;
+    background-color: #fff;
+    margin: 0px 35px 0px 55px;
+    border-top: 2px solid black;
+}
+.conteiner2-h1{
+    font-size: 11px;
+    font-family: "Gothic A1 Black";
+    margin: 8px 0px 0px 0px;
+    color: black;
+    letter-spacing: 1.1px;
+}
+.conteiner2-ul{
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 15px 1px 0px -27px;
+    line-height: 1.4;
+}
+.conteiner2-li{
+    margin: 0px 0px 10px -22px;
+}
+.conteiner3{
+    height: 100px;
+    width: 302px;
+    margin: -304px 0px 0px 230px;
+    background-color: #fff;
+    border-top: 2px solid black;
+}
+.conteiner3-h1{
+    font-size: 11px;
+    font-family: "Gothic A1 Black";
+    margin: 8px 0px 0px 0px;
+    color: black;
+    letter-spacing: 1.1px;
+}
+.conteiner3-h2{
+    font-family: "Gothic A1";
+    font-size: 9px;
+    margin: 17px 0px 0px 0px;
+    color: black;
+    letter-spacing: 1.1px;
+    font-weight: bold;
+}
+.conteiner3-ul{
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 15px 1px 0px -30px;
+    line-height: 1.4;
+}
+.conteiner4{
+    height: 100px;
+    width: 302px;
+    margin: 90px 0px 0px 230px;
+    background-color: #fff;
+    border-top: 2px solid black;
+}
+.conteiner4-h1{
+    font-size: 11px;
+    font-family: "Gothic A1 Black";
+    margin: 8px 0px 0px 0px;
+    color: black;
+    letter-spacing: 1.1px;
+}
+.conteiner4-ul{
+    font-family: "Gothic A1 Light";
+    font-size: 9px;
+    margin: 8px 1px 0px -30px;
+    line-height: 1.4;
+}
+.conteiner4-li{
+    margin: 0px 0px 0px -25px;
+}
